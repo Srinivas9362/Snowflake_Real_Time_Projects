@@ -1,0 +1,10 @@
+pip install uv
+uv init 
+uv sync
+
+python -m venv venv
+
+uv add dbt-core
+
+uv add dbt-snowflake
+
