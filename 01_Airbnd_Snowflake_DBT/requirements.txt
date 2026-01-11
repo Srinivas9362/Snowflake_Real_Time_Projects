@@ -8,3 +8,4 @@ uv add dbt-core
 
 uv add dbt-snowflake
 
+dbt init
