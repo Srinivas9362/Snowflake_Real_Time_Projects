@@ -1,2 +1,5 @@
 # Python virtual environment
 venv/
+dbt_internal_packages/
+dbt_packages/
+target/
